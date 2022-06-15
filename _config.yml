@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gayatri Patankar"
 title_separator          : "-"
 name                     : &name "Gayatri Patankar"
-description              : &description "personal description"
+description              : &description "Computer Science student at BITS Goa"
 url                      : https://gayatrip7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gayatrip7/gayatrip7.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gayatri Patankar"
   avatar           : "profile.jpg"
-  bio              : "A computer systems and space nerd."
+  bio              : "Final year computer science student at BITS Goa"
   location         : "Pune"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
