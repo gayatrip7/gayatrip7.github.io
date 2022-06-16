@@ -22,8 +22,7 @@ Work experience
 Teaching
 ======
   <ul>Teaching assistant in second semester 2021-22, for the course Database Management Systems
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+</ul>
   
   
 Service and leadership
