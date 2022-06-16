@@ -12,7 +12,7 @@ I am a final year undergraduate computer science student at <a href="https://www
 <li>Operating Systems</li>
 <li>Real time/Embedded systems</li>
 <li>Data science/Machine learning</li> 
-#neuroscience/control systems
+<!--neuroscience/control systems-->
 
 <br>
 I am the on board computer subsystem lead for <a href="https://projecteinsat.wordpress.com/">Project EINSat</a>, where I lead a team of students passionate about building software and hardware for our cubesat mission.
