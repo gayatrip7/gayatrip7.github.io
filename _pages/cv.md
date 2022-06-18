@@ -21,11 +21,17 @@ Work experience
   
 Teaching
 ======
-  <ul>Teaching assistant in second semester 2021-22, for the course Database Management Systems
-</ul>
+  <li>Teaching assistant in second semester 2021-22, for the course Database Management Systems
+</li>
   
   
 Service and leadership
 ======
 * Volunteer teacher
 * Amateur astronomer
+* Project EINSat On Board Computer lead
+
+Workshops and certifications
+======
+* Nvidia DLI workshop participant
+* NAND to Tetris
