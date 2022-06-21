@@ -34,3 +34,5 @@ Workshops and certifications
 ======
 * Nvidia DLI workshop participant
 * NAND to Tetris
+
+<a href="cv.pdf">See CV attached here.</a>
