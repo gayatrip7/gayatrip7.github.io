@@ -19,4 +19,4 @@ I am the on board computer subsystem lead for <a href="https://projecteinsat.wor
 
 I have experience working in the os internals of the xv6 teaching operating system, thanks to a bootcamp I have participated in offered by IIT Bombay.
 
-I enjoy table top roleplaying games, and when I'm not working you can find me crafting adventures and creating characters. Reading, especially scifi and fantasy is one of my hobbies. The technological future fascinates me and I would love to be an influence in it through my work.
+I enjoy collaborative storytelling, and when I'm not working you can find me crafting adventures and creating characters. Reading, especially scifi and fantasy is one of my hobbies. The technological future fascinates me and I would love to be an influence in it through my work.
