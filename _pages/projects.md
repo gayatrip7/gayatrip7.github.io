@@ -15,6 +15,8 @@ author_profile: true
 * Project EINSat
   * On board computer lead since 2021.
   * This project aims to build a fully functional space telescope to observe and detect exoplanets.
+* xv6 internals
+  * Added system calls to the xv6 teaching operating system for locks, virtual memory management, etc.
 * 3 CNF satisfiability with genetic algorithm
   * Part of Artificial Intelligence course.
   * This project is to maximise satisified clauses in a 3 CNF sentence by the use of a genetic algorithm.
