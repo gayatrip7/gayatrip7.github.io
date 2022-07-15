@@ -17,4 +17,10 @@ author_profile: true
   * This project aims to build a fully functional space telescope to observe and detect exoplanets.
 * 3 CNF satisfiability with genetic algorithm
   * Part of Artificial Intelligence course.
-  * This project is to maximise satisified clauses in a 3 CNF sentence by the use of a genetic algorithm,\.
+  * This project is to maximise satisified clauses in a 3 CNF sentence by the use of a genetic algorithm.
+* Cyclic Executive
+  * Schedules periodic, aperiodic, and sporadic jobs
+* EDF Scheduler for FreeRTOS
+  * Uses the EDF algorithm for scheduling in the FreeRTOS kernel.
+* Brightness driver
+  * A device driver for a mouse
