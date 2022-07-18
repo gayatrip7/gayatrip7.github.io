@@ -18,9 +18,7 @@ author_profile: true
   * Added system calls to the xv6 teaching operating system for locks, virtual memory management, etc.
 * <a href="https://github.com/gayatrip7/3CNF-sat">3 CNF satisfiability with genetic algorithm</a>
   * This project is to maximise satisified clauses in a 3 CNF sentence by the use of a genetic algorithm.
-* <a href="https://github.com/gayatrip7/Cyclic_Executive">Cyclic Executive</a>
-  * Schedules periodic, aperiodic, and sporadic jobs
 * <a href="https://github.com/gayatrip7/freertos-edf">EDF Scheduler for FreeRTOS</a>
-  * Uses the EDF algorithm for scheduling in the FreeRTOS kernel.
+  * Modified FreeRTOS task scheduler to use the EDF algorithm.
 * <a href="https://github.com/gayatrip7/brightness-driver">Brightness driver</a>
-  * A device driver for a mouse to change the backlight brightness of the screen. 
+  * A linux device driver for a mouse to change the backlight brightness of the screen. 
