@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate computer science student at <a href="https://www.bits-pilani.ac.in/goa/">BITS Goa</a>. I am interested in 
+I am a Master's in Science in Computer Science student at Georgia Tech. I am interested in 
 <li>Operating Systems</li>
 <li>Real time/Embedded systems</li>
+<li>Computer Networks</li>
 <li>Data science/Machine learning</li> 
 <!--neuroscience/control systems-->
 
 <br>
-I am the on board computer subsystem lead for <a href="https://projecteinsat.wordpress.com/">Project EINSat</a>, where I lead a team of students passionate about building software and hardware for our cubesat mission.
+I was previously the on board computer subsystem lead for <a href="https://projecteinsat.wordpress.com/">Project EINSat</a>, where I lead a team of students passionate about building software and hardware for our cubesat mission.
 
 I have experience working in the os internals of the xv6 teaching operating system, thanks to a bootcamp I have participated in offered by IIT Bombay.
 
