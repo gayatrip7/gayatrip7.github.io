@@ -22,7 +22,9 @@ Work experience
   
 Teaching
 ======
-* Teaching assistant in second semester 2021-22, for the course Database Management Systems
+* Teaching assistant for the course Database Management Systems
+* Teaching assistant for the course Computer Architecture
+* Teaching assistant for the course Computer Networks
   
   
 Service and leadership
