@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science, BITS Pilani University, 2023 (expected)
+* M.S. in Computer Science, Georgia Institute of Technology, 2025 (expected)
+* B.E. in Computer Science, BITS Pilani University, 2023
 
 Work experience
 ======
